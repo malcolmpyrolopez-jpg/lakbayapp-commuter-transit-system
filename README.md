@@ -2,8 +2,8 @@
 
 > An Information Systems capstone project developed to improve public transportation transparency, route awareness, and fare estimation for commuters in Metro Manila.
 
-> **Project Status & Disclaimer**
-> This project was conceptualized, researched, and prototyped as an **undergraduate capstone thesis project** at De La Salle-College of Saint Benilde. It was **never commercially launched or published on public app stores** (Google Play / Apple App Store), as full-scale commercial deployment, real-time GPS tracking infrastructure, and ongoing maintenance presented resource and financial constraints beyond the academic scope. It serves as a functional proof-of-concept and technical portfolio piece.
+> **Project Status & Academic Disclaimer**
+> This project was conceptualized, researched, and prototyped as an undergraduate capstone thesis at De La Salle-College of Saint Benilde. **While the formal research paper successfully passed**, the software implementation and deployment phase could not be completed or sustained due to the high financial overhead and resource constraints required for production-grade infrastructure (such as cloud server scaling and ongoing maintenance). It is archived here as a functional academic proof-of-concept and technical portfolio piece showcasing systems analysis, database design, and research methodology.
 
 ---
 
